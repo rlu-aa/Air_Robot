@@ -1,5 +1,5 @@
 # Air_Robot
-wechat robot that can report AA office air condition
+wechat robot that can report in house air condition
 
 Usage:
 
