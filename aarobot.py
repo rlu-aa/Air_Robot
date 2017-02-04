@@ -49,7 +49,6 @@ AQI = {
     }
 }
 
-
 def calc_aqi(country="CN", **kwargs):
     results = []
     for pollutant, concentration in kwargs.items():
